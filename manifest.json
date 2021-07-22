@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Tenfo",
+  "version": "1.0",
+  "icons": {
+    "48": "icon48.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://tenhou.net/3/"],
+      "js": ["contentScript.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "matches": ["https://tenhou.net/*"],
+      "resources": ["tenfo.js"]
+    },
+    {
+      "matches": ["https://tenhou.net/*"],
+      "resources": ["images/*.png"]
+    }
+  ]
+}
