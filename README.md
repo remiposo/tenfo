@@ -1,5 +1,5 @@
-# Tenfo:mahjong:
-Chrome extension that displays useful information about Tenhou.
+# Tenfo
+Chrome extension that displays useful information about Tenhou:mahjong:
 ## Features
 - [x] Tiles discarded from player's hand.
 - [ ] ~~remaining number of tiles in each.~~
