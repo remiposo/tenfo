@@ -1,5 +1,6 @@
 # Tenfo
-Chrome extension that displays useful information about Tenhou:mahjong:
+Chrome extension that displays useful information about Tenhou:mahjong:  
+Sniffing and parsing WebSocket frames.
 ## Features
 - [x] Tiles discarded from player's hand.
 - [ ] ~~remaining number of tiles in each.~~
@@ -12,7 +13,7 @@ Chrome extension that displays useful information about Tenhou:mahjong:
 ## Usage
 Just play Tenhou!!
 ## Note
-- Only work with the web version of Tenhou.
-- **Don't** use in a rate match.
+Only work with the web version of Tenhou.  
+**Don't** use in a rate match.
 ## Author
 [remiposo](https://github.com/remiposo)
