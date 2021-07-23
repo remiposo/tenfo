@@ -1,5 +1,5 @@
 # Tenfo
-Chrome extension that displays useful information about Tenhou:mahjong:  
+Chrome Extension that displays useful information about Tenhou:mahjong:  
 Sniffing and parsing WebSocket frames.
 ## Features
 - [x] Tiles discarded from player's hand.
