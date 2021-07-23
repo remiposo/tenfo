@@ -13,7 +13,7 @@ Sniffing and parsing WebSocket frames.
 ## Usage
 Just play Tenhou!!
 ## Note
-Only work with the web version of Tenhou.  
-**Don't** use in a rate match.
+- Only work with the web version of Tenhou.
+- **Don't** use in a rate match.
 ## Author
 [remiposo](https://github.com/remiposo)
