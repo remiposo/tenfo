@@ -1,4 +1,4 @@
-# Tenfo
+# tenfo
 Chrome Extension that displays useful information about Tenhou:mahjong:  
 Sniffing and parsing WebSocket frames.
 ## Features
